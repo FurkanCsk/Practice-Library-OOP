@@ -5,7 +5,7 @@
 using Practice___Library;
 
 Library book1 = new Library();
-book1 = new Library("Adı Aylin","Ayşe","Kulin",398,"Remzi Kitabevi");
+book1 = new Library("Adı Aylin","Ayşe", "Kulin",398,"Remzi Kitabevi");
 
 Library book2 = new Library();
 book2 = new Library("Bir Kitap", "Ayşe", "Yılmaz", 320, "Alfa Yayınları");

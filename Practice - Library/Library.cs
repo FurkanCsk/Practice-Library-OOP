@@ -93,6 +93,7 @@ namespace Practice___Library
         {
             _bookName = bookName;
             _authorName = authorName;
+            _authorSurname= authorSurname;
             _publisher = publisher;
             _page = page;
             SaveDate();
