@@ -1,7 +1,8 @@
 # Practice - Library
 OOP'yi kavramak için yaptığım pratiklerden biri olan bu kütüphane uygulamasında class,constructor,property,method üzerine çalışılmıştır. Bu yapılar kullanılarak üç adet kitap kaydı alınmıştır. Pratiğin detaylı açıklaması şu şekildedir :
 
-![image](https://github.com/user-attachments/assets/6b352a09-562d-4f8d-a091-1b45c6bba07d)
+![image](https://github.com/user-attachments/assets/cf497c4b-70d0-4f69-944f-54df1630247f)
+
 
 
 Pratik - Patika Kütüphane
